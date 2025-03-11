@@ -8,7 +8,7 @@ Perfect for backyard practice or training!
 
 The final CAD is available in the [cad/](cad/) folder and a preview online at [https://a360.co/3FmtlC6](https://a360.co/3FmtlC6). 
 
-> [!INFO]
+> [!NOTE]
 > This project includes affiliate links. If you click on these links, I may earn a commission or credit. This does not cost you anything extra, but it helps support the project and future development efforts. Thank you for your support!
 
 
