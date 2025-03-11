@@ -8,12 +8,12 @@ Perfect for backyard practice or training!
 
 The final CAD is available in the [cad/](cad/) folder and a preview online at [https://a360.co/3FmtlC6](https://a360.co/3FmtlC6). 
 
-> [!NOTE]
-> This project includes affiliate links. If you click on these links, I may earn a commission or credit. This does not cost you anything extra, but it helps support the project and future development efforts. Thank you for your support!
-
-
 ## Bill of Materials
-The following BOM was automatically generated using [tallman5/fusion-scripts](https://github.com/tallman5/fusion-scripts).
+
+![](images/golf-chipping-platform-exploded.png)
+
+> [!NOTE]
+> This BOM includes affiliate links. If you click on these links, I may earn a commission or credit. This does not cost you anything extra, but it helps support the project and future development efforts. Thank you for your support!
 
 |Image|Part|Description|Quantity|
 |-|-|-|-|
@@ -27,3 +27,5 @@ The following BOM was automatically generated using [tallman5/fusion-scripts](ht
 |![](images/golf-matt-assembly.png)|Golf Matt Assembly|Affiliate Link: https://amzn.to/3Dr7J77|1|
 |![](images/platform-foot.png)|Platform Foot|3" x 2 3/5" x 1"<br>Pressure Treated|4|
 |![](images/wood-screw-2.5in.png)|Wood Screw 2.5in|Affiliate Link: https://amzn.to/41nn14P|54|
+
+The above BOM was automatically generated using [tallman5/fusion-scripts](https://github.com/tallman5/fusion-scripts).
